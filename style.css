@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 34%;
+    margin-top: 1%;
+    height: 500px;
+    border: 2px solid black;
+}
+
+#on{
+    margin-left: 450px;
+    height: 50px;
+    width: 70px;
+    background-color:white;
+    color: black;
+    font-weight: bolder;
+    margin-top: 50px;
+    font-size: larger;
+}
+
+#off{
+    margin-left: 470px;
+    height: 50px;
+    width:70px;
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+div{
+    background-color:rgb(211, 211, 211);
+}
